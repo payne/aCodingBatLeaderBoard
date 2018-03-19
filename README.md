@@ -13,3 +13,6 @@ firestore database.   When someone views the page they will be able
 to see the leader-board amongst the participants.
 
 
+
+https://aCodingBatLeaderBoard.firebaseapp.com is where things are currently deployed.
+
